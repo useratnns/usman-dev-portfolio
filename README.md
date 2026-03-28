@@ -15,19 +15,11 @@ Welcome to the open-source repository of my personal portfolio website! This pro
 
 ---
 
-## 📸 Section Screenshots
+## 📸 Complete Website Preview
 
-### Hero Section & About Me
-![Hero Section](assets/screenshots/hero-section.png)
-
-### Education & Personal Info
-![Education](assets/screenshots/education-section.png)
-
-### Central Recognitions Timeline
-![Recognitions](assets/screenshots/recognitions-timeline.png)
-
-### Projects & Engineering Work
-![Projects](assets/screenshots/projects-section.png)
+<p align="center">
+  <img src="assets/screenshots/complete-resume.png" alt="Complete Resume Screenshot" width="800">
+</p>
 
 ---
 
