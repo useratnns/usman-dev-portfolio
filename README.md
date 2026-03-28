@@ -1,14 +1,12 @@
 # Muhammad Usman | Professional Tech Portfolio
 
 <p align="center">
-  <img src="assets/screenshots/complete-resume.png" alt="Complete Resume Screenshot Placeholder" width="800">
-  <br>*(Take a full-page screenshot of your website here and save it as `complete-resume.png` inside the `assets/screenshots/` folder)*
+  <img src="assets/screenshots/complete-resume.png" alt="Complete Resume Screenshot" width="800">
 </p>
 
 Welcome to the open-source repository of my personal portfolio website! This project is a highly dynamic, lightweight, and modern web application built to showcase my multidisciplinary background in **Computer Science, Artificial Intelligence, Full-Stack Development**, and professional experiences.
 
 ## 🌟 Live Preview
-*(You can add your live GitHub Pages link here once deployed!)*
 [View Live Portfolio](https://github.com/useratnns)
 
 ## ✨ Core Features
@@ -21,7 +19,6 @@ Welcome to the open-source repository of my personal portfolio website! This pro
 ---
 
 ## 📸 Section Screenshots
-*(Please take small pictures / screenshots of each section of your website, and save them inside the new `assets/screenshots/` folder exactly with the names below so they appear magically on GitHub!)*
 
 ### Hero Section & About Me
 ![Hero Section](assets/screenshots/hero-section.png)
