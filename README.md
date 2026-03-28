@@ -1,8 +1,5 @@
 # Muhammad Usman | Professional Tech Portfolio
 
-<p align="center">
-  <img src="assets/screenshots/complete-resume.png" alt="Complete Resume Screenshot" width="800">
-</p>
 
 Welcome to the open-source repository of my personal portfolio website! This project is a highly dynamic, lightweight, and modern web application built to showcase my multidisciplinary background in **Computer Science, Artificial Intelligence, Full-Stack Development**, and professional experiences.
 
