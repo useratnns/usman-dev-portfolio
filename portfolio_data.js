@@ -179,6 +179,18 @@ const portfolioData = {
         githubUrl: `https://github.com/useratnns?tab=repositories`,
         list: [
             {
+                repoUrl: `https://github.com/useratnns/usman-dev-portfolio`,
+                icon: `<i class="fas fa-laptop-code" style="font-size: 2.5rem; color: var(--color-primary);"></i>`,
+                title: `Professional Tech Portfolio`,
+                subtitle: `Dynamic Open-Source Web Application`,
+                description: `A highly dynamic, glassmorphism-styled personal tech portfolio. Features a completely decoupled data-driven rendering architecture, animated central timelines, and Intersection Observer scroll effects.`,
+                techStack: [
+                    `<span><i class="devicon-html5-plain colored"></i> HTML5</span>`,
+                    `<span><i class="devicon-css3-plain colored"></i> CSS3</span>`,
+                    `<span><i class="devicon-javascript-plain colored"></i> Vanilla JS</span>`
+                ]
+            },
+            {
                 repoUrl: `https://github.com/useratnns/evalock`,
                 icon: `<i class="fas fa-folder-open" style="font-size: 2.5rem; color: var(--color-primary);"></i>`,
                 title: `Evalock`,
